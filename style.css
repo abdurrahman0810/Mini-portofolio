@@ -74,8 +74,14 @@ nav .beda {
     top: 0;
     right: 0; */
 }
+#hidden{
+  padding-top: 10px;
+  margin-left: 18px;
+  
+}
 #hiden{
-  margin-right: 20px;
+  padding-top: 10px;
+  margin-left: 90dvw;
 }
 .navbar {
   position: fixed;
